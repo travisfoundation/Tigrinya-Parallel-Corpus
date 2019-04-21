@@ -6,3 +6,4 @@ In these folders, all files starting with "EN" contain English sentences, files 
 
  * v1: Untokenised, one file per language.
  * v2: Untokenised. Each language split in three files: training, validation, evaluation. Order random, lines still correspond between "EN" and "TI". 
+ * v3: Files from v2 encoded using 10000-item subword models from sentencepiece. 
