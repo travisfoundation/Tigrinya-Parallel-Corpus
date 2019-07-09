@@ -1,7 +1,7 @@
 # Tigrinya-Parallel-Corpus
 
 "EN_all" and "TI_all" contain the enitre data set, untokenised and not randomised.
-Of the 636465 strings, 58191 or 91% are from biblical sources (strings in lines 4322 - 62513).
+Of the 63465 strings, 58191 or 91% are from biblical sources (strings in lines 4322 - 62513).
 
 Folders "v1", "v2", etc refer to versions one, two, etc.
 
