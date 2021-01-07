@@ -12,13 +12,3 @@
      -> language is highly biased towards religious topics ('Jesus' being the 4th most common word); 
         more problematically, the language represents the views of JW, some of which very opinionated or even intolerant
    - rest is crowd-sourced by ourselves (with the tremendous efforts from Eritrean volunteers), by translating snippets of articles from the English Wikipedia
-
-
-
-
-
-## Usage Guide
-
- - all textual files in the repository are UTF-8 encoded 
-
-## Provenance Guide
