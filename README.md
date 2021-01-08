@@ -21,7 +21,7 @@ Some cornerstone statistics of the Travis Foundation corpus:
 
 The majority of this collection of parallel sentences is actually scraped from the Jehova's Witnesses' website, to our knowledge the largest findable collection of texts with both English and Tigrinya version. The X parallel sentences obtained from this source account for Y% of our corpus. (Please note that we do not claim or wish to infringe upon the ownership of these texts; we include them here merely for scientific pruposes, namely for training and testing machine learning models. Please be aware of that when using this corpus.)
 
-The remainder of this corpus, that is the remaining A sentence pairs or B%, is however crowd-sourced by ourselves. With tremendous efforts, Eritrean volunteers helped digitise their own language and created these sentence pairs by translating English sentences into their mother tongue. All of these English source sentences were obtained from open-source sites, almost all from Wikipedia and a small number from other sources. Hence, over this part of the corpus we claim complete ownership and publish it here for open-source use under the [provided license](license.txt).
+The remainder of this corpus, that is the remaining A sentence pairs or B%, is however crowd-sourced by ourselves. With tremendous efforts, Eritrean volunteers helped digitise their own language and created these sentence pairs by translating English sentences into their mother tongue. All of these English source sentences were obtained from open-source sites, almost all from Wikipedia and a small number from other sources. Hence, over this part of the corpus we claim complete ownership and publish it here for open-source use under the [provided license](./LICENSE.txt).
 
 
  
