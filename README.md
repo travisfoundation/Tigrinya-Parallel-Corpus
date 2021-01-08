@@ -24,9 +24,12 @@ The majority of this collection of parallel sentences is actually scraped from t
 The remainder of this corpus, that is the remaining A sentence pairs or B%, is however crowd-sourced by ourselves. With tremendous efforts, Eritrean volunteers helped digitise their own language and created these sentence pairs by translating English sentences into their mother tongue. All of these English source sentences were obtained from open-source sites, almost all from Wikipedia and a small number from other sources. Hence, over this part of the corpus we claim complete ownership and publish it here for open-source use under the [provided license](./LICENSE.txt).
 
 
- 
 ## Scripts
 
+This corpus comes with a few Python scripts to parse and process the corpus. While very basic scripts in terms of natural language processing, they are mainly included to exemplify doing linguistic pre-processing for Tignrinya, such as dealing with the Ge'ez UTF-8 code points and punctuation.
+Specifically, these scripts include:
+
+  - `script_a.py`: Some contents.
 
 
 
