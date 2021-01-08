@@ -17,6 +17,13 @@ Some cornerstone statistics of the Travis Foundation corpus:
  - 
  
  
+|     | TI  | EN |
+|-------| ------------- | ------------- |
+| number of words  | 10k  | 20k |
+| number of characters | 100k | 200k |
+ 
+ 
+ 
 ## Provenance
 
 The majority of this collection of parallel sentences is actually scraped from the Jehova's Witnesses' website, to our knowledge the largest findable collection of texts with both English and Tigrinya version. The X parallel sentences obtained from this source account for Y% of our corpus. (Please note that we do not claim or wish to infringe upon the ownership of these texts; we include them here merely for scientific pruposes, namely for training and testing machine learning models. Please be aware of that when using this corpus.)
