@@ -26,8 +26,7 @@ Some cornerstone statistics of the Travis Foundation corpus:
  
 ## Provenance
 
-The majority of this collection of parallel sentences is actually scraped from the Jehova's Witnesses' website, to our knowledge the largest findable collection of texts with both English and Tigrinya version. The X parallel sentences obtained from this source account for Y% of our corpus. <br>
-We have included this data in our corpus simply for its size but do note two things:<br>
+The majority of this collection of parallel sentences is actually scraped from the Jehova's Witnesses' website, to our knowledge the largest findable collection of texts with both English and Tigrinya version. The X parallel sentences obtained from this source account for Y% of our corpus. We have included this data in our corpus simply for its size but warn against two aspects:<br>
 First, the data may have some problems in linguistic terms. As an English-Tigrinya parallel corpus, we do not know the process by which the original English texts were translated into Tigrinya and we therefore have no grip on the closeness, appropriateness or accuracy of the translations. As a monolingual corpus of Tigrinya, it is highly biased towards religious topics ('Jesus' being the 4th most common word) and therefore less suited to capture e.g. semantic properties. Yet more problematically, it represents the specific views of Jehovah's Witnesses and therefore contains highly opinionated, perhaps even intolerant, language. <br>
 Second, we must insist that we do not claim or wish to infringe upon the ownership of these texts; we include them here merely for scientific pruposes, namely for training and testing machine learning models. Please be aware of that when using this corpus.
 
